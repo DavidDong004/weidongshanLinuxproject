@@ -1,0 +1,3 @@
+/home/book/nfs_rootfs/drivers_projects/study_drives/07_drivers_form_template2/07_irda/gpio_drv.ko
+/home/book/nfs_rootfs/drivers_projects/study_drives/07_drivers_form_template2/07_irda/gpio_drv.o
+

@@ -1,0 +1,104 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.framebuffer.o.d",
+            "-o",
+            "framebuffer.o",
+            "framebuffer.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/display",
+        "file": "framebuffer.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.touchscreen.o.d",
+            "-o",
+            "touchscreen.o",
+            "touchscreen.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/input",
+        "file": "touchscreen.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.disp_manager.o.d",
+            "-o",
+            "disp_manager.o",
+            "disp_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/display",
+        "file": "disp_manager.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.input_manager.o.d",
+            "-o",
+            "input_manager.o",
+            "input_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/input",
+        "file": "input_manager.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.netinput.o.d",
+            "-o",
+            "netinput.o",
+            "netinput.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/input",
+        "file": "netinput.c"
+    },
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/include",
+            "-Wp,-MD,.input_test.o.d",
+            "-o",
+            "input_test.o",
+            "input_test.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/02_input_struct/unittest",
+        "file": "input_test.c"
+    }
+]

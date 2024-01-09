@@ -1,0 +1,155 @@
+[
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.disp_manager.o.d",
+            "-o",
+            "disp_manager.o",
+            "disp_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/display",
+        "file": "disp_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.input_manager.o.d",
+            "-o",
+            "input_manager.o",
+            "input_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/input",
+        "file": "input_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.button.o.d",
+            "-o",
+            "button.o",
+            "button.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/ui",
+        "file": "button.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.freetype.o.d",
+            "-o",
+            "freetype.o",
+            "freetype.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/font",
+        "file": "freetype.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.font_manager.o.d",
+            "-o",
+            "font_manager.o",
+            "font_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/font",
+        "file": "font_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.touchscreen.o.d",
+            "-o",
+            "touchscreen.o",
+            "touchscreen.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/input",
+        "file": "touchscreen.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.framebuffer.o.d",
+            "-o",
+            "framebuffer.o",
+            "framebuffer.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/display",
+        "file": "framebuffer.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.ui_test.o.d",
+            "-o",
+            "ui_test.o",
+            "ui_test.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/unittest",
+        "file": "ui_test.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/include",
+            "-Wp,-MD,.netinput.o.d",
+            "-o",
+            "netinput.o",
+            "netinput.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/05_page_struct/input",
+        "file": "netinput.c"
+    }
+]

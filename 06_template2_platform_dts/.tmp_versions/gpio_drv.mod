@@ -1,0 +1,3 @@
+/home/book/nfs_rootfs/drivers_projects/study_drives/06_template2_platform_dts/gpio_drv.ko
+/home/book/nfs_rootfs/drivers_projects/study_drives/06_template2_platform_dts/gpio_drv.o
+

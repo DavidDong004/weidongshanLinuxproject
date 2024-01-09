@@ -1,0 +1,206 @@
+[
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.netinput.o.d",
+            "-o",
+            "netinput.o",
+            "netinput.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/input",
+        "file": "netinput.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.input_manager.o.d",
+            "-o",
+            "input_manager.o",
+            "input_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/input",
+        "file": "input_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.disp_manager.o.d",
+            "-o",
+            "disp_manager.o",
+            "disp_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/display",
+        "file": "disp_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.framebuffer.o.d",
+            "-o",
+            "framebuffer.o",
+            "framebuffer.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/display",
+        "file": "framebuffer.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.freetype.o.d",
+            "-o",
+            "freetype.o",
+            "freetype.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/font",
+        "file": "freetype.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.main.o.d",
+            "-o",
+            "main.o",
+            "main.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/business",
+        "file": "main.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.config.o.d",
+            "-o",
+            "config.o",
+            "config.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/config",
+        "file": "config.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.main_page.o.d",
+            "-o",
+            "main_page.o",
+            "main_page.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/page",
+        "file": "main_page.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.font_manager.o.d",
+            "-o",
+            "font_manager.o",
+            "font_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/font",
+        "file": "font_manager.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.touchscreen.o.d",
+            "-o",
+            "touchscreen.o",
+            "touchscreen.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/input",
+        "file": "touchscreen.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.button.o.d",
+            "-o",
+            "button.o",
+            "button.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/ui",
+        "file": "button.c"
+    },
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/include",
+            "-Wp,-MD,.page_manager.o.d",
+            "-o",
+            "page_manager.o",
+            "page_manager.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/06_business/page",
+        "file": "page_manager.c"
+    }
+]

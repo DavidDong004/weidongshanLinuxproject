@@ -1,0 +1,19 @@
+[
+    {
+        "arguments": [
+            "arm-buildroot-linux-gnueabihf-gcc",
+            "-c",
+            "-Wall",
+            "-O2",
+            "-g",
+            "-I",
+            "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/01_display_struct/include",
+            "-Wp,-MD,.framebuffer.o.d",
+            "-o",
+            "framebuffer.o",
+            "framebuffer.c"
+        ],
+        "directory": "/home/book/nfs_rootfs/drivers_projects/study_drives/project101/01_display_struct/display",
+        "file": "framebuffer.c"
+    }
+]
